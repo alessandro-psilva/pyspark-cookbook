@@ -30,6 +30,7 @@ Clone o repositório e instale as dependências usando o `pip`:
 git clone https://github.com/SEU_USUARIO/pyspark-cookbook.git
 cd pyspark-cookbook
 pip install -r requirements.txt
+```
 
 ```bash
 pyspark-cookbook/
@@ -38,3 +39,4 @@ pyspark-cookbook/
 ├── README.md               # Este arquivo
 ├── utils/                  # Funções e utilitários úteis
 └── notebooks/              # Notebooks Jupyter com exemplos interativos
+```
